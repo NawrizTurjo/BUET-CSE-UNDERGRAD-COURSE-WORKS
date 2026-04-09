@@ -51,9 +51,12 @@ Current Status: **Level-3 Term-2 (3-2)**
 
 ---
 
-### Level-3 Term-2 (3-2) *(Current)*
+### Level-3 Term-2 (3-2)
 
-*Ongoing*
+- [CSE-322: Computer Networks](https://github.com/NawrizTurjo/CSE-322-Networking.git)
+- [CSE-326: Information System Design](https://github.com/NawrizTurjo/CSE-326-ISD-Sessional.git)
+- [CSE-330: Machine Learning](https://github.com/NawrizTurjo/CSE-330-Machine-Learning.git)
+- [CSE-330: Machine Learning (Project)](https://github.com/NawrizTurjo/CSE-330-ML-Project.git)
 
 ---
 
