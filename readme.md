@@ -2,7 +2,7 @@
 
 This repository contains all my undergrad academic courseworks in a structured way in BUET CSE.
 
-Current Status: **Level-3 Term-2 (3-2)**
+Current Status: **Level-4 Term-1 (4-1)**
 
 *NB: Some of the repo may not be public by the time you see this. I'll make them public as soon as the term ends.*
 
@@ -60,9 +60,13 @@ Current Status: **Level-3 Term-2 (3-2)**
 
 ---
 
-### Level-4 Term-1 (4-1) 
+### Level-4 Term-1 (4-1)
 
-*(Upcoming)*
+- [CSE-402: Numerical Analysis, Simulation and Modeling](https://github.com/NawrizTurjo/CSE-402-Numerical-Simulation-Modeling.git)
+- [CSE-402: Numerical Analysis, Simulation and Modeling (Project)](https://github.com/NawrizTurjo/kinetic-kan.git)
+- [CSE-406: Cyber Security](https://github.com/NawrizTurjo/CSE-406-Cyber-Security.git)
+- [CSE-406: Cyber Security (Project)](https://github.com/NawrizTurjo/portscan-os.git)
+- [CSE-450: Capstone Project](https://github.com/NawrizTurjo/CSE-450-Persusaion-For-Good.git)
 
 ---
 
